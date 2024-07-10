@@ -14,6 +14,6 @@ working as a student assistant in the IT/Service team at Inha University.
 There, I work on developing and maintaining the features of the Inha University app.
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=thisjheok
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisjheok)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/jhjang3344@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=000000"/></a>
