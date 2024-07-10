@@ -2,7 +2,7 @@
 
 
 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/jhjang3344@gmail.com-EA4335?style=flat-square&logo=Gamil&logoColor=000000"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/jhjang3344@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=000000"/></a>
 <!--
 **thisjheok/thisjheok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
