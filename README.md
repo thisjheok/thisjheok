@@ -1,7 +1,4 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:425fd7,100:17209b&height=120&text=Here%20to%20contribute.&animation=&fontColor=ffffff&fontSize=40" />
-    </div>
-    <div align= "center"> 
+<div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 장재혁입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 소프트웨어를 통해 세상에 기여하고자합니다. </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 인하대학교 컴퓨터공학과 22학번으로 재학 중입니다. </div>
@@ -26,8 +23,7 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:jhjang3344@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jhjang3344@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
+          </div>  <br>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=thisjheok&bg_color=60,000000,000000&title_color=ffffff&text_color=ffffff"
