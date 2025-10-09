@@ -2,7 +2,6 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 장재혁입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 소프트웨어를 통해 세상에 기여하고자합니다. </div> 
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 인하대학교 컴퓨터공학과 22학번으로 재학 중입니다. </div>
-      <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 현재 시스템 SW에 관심을 가지고 공부하고 있습니다. </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
