@@ -11,7 +11,7 @@
   - Visual SLAM, LiDAR SLAM, Semantic SLAM, Learning-based odometry and mapping
  
 ## 🚀 Career & Education
-- Undergraduate Researcher at Inha University (JUN 2025 - Present)
-- Student Android Developer(Part-time Position) at Inha University IT Service Team (FEB 2024 - Present)
-- Data Engineer at (주)한알비교 (AUG 2024 - MAY 2025)
+- Undergraduate Researcher at Inha University (Jun 2025 - Present)
+- Student Android Developer(Part-time Position) at Inha University IT Service Team (Feb 2024 - Present)
+- Data Engineer(Freelancer) at (주)한알비교 (Aug 2024 - May 2025)
 - B.Eng degree in Computer Engineering at Inha University(2022 - Expected 2028)
