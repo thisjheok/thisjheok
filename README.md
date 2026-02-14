@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaehyeok</h1>
 
-## 🌽 Interests
+## 🙌 Interests
 - **Machine Learning & Deep Learning**
   - Large language model (LLM), Neural Networks, Model Training, Inference, AI Agent
 - **Edge AI**
@@ -12,6 +12,6 @@
  
 ## 🚀 Career & Education
 - Undergraduate Researcher at Inha University (Jun 2025 - Present)
-- Student Android Developer(Part-time Position) at Inha University IT Service Team (Feb 2024 - Present)
+- Student Android Developer(Part-time Position) at Inha University IT Service Team (Feb 2024 - Feb 2026)
 - Data Engineer(Freelancer) at (주)한알비교 (Aug 2024 - May 2025)
 - B.Eng degree in Computer Engineering(in progress) at Inha University(2022 - Expected 2028)
