@@ -7,8 +7,6 @@
   - On-Device AI, TinyML, Embedded Machine Learning, Model Compression (Quantization/Pruning)
 - **Parallel Computing / GPGPU**
   - High-Performance Computing (HPC), CUDA, Heterogeneous Computing, Kernel Optimization
-- **Simultaneous Localization and Mapping (SLAM)**
-  - Visual SLAM, LiDAR SLAM, Semantic SLAM, Learning-based odometry and mapping
  
 ## 🚀 Career & Education
 - Undergraduate Researcher at Inha University (Jun 2025 - Present)
