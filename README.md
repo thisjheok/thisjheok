@@ -1,1 +1,1 @@
-I like GPU Engineering, deep learning, and computer graphics.
+I like GPU engineering, deep learning, and computer graphics.
